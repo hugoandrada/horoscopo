@@ -17,7 +17,7 @@
           69,
           97
         ],
-        "luckyColor": "Crimson"
+        "luckyColor": "#DC143C"
       },
       "Taurus": {
         "date": "2026-02-02",
@@ -34,7 +34,7 @@
           87,
           96
         ],
-        "luckyColor": "Forest Green"
+        "luckyColor": "#228B22"
       },
       "Gemini": {
         "date": "2026-02-02",
@@ -51,7 +51,7 @@
           89,
           92
         ],
-        "luckyColor": "Electric Blue"
+        "luckyColor": "#00BCD4"
       },
       "Cancer": {
         "date": "2026-02-02",
@@ -68,7 +68,7 @@
           35,
           50
         ],
-        "luckyColor": "Sea Foam"
+        "luckyColor": "#00BCD4"
       },
       "Leo": {
         "date": "2026-02-02",
@@ -85,7 +85,7 @@
           88,
           98
         ],
-        "luckyColor": "Champagne"
+        "luckyColor": "#C9A84C"
       },
       "Virgo": {
         "date": "2026-02-02",
@@ -102,7 +102,7 @@
           77,
           86
         ],
-        "luckyColor": "Olive"
+        "luckyColor": "#228B22"
       },
       "Libra": {
         "date": "2026-02-02",
@@ -119,7 +119,7 @@
           54,
           90
         ],
-        "luckyColor": "Soft Mauve"
+        "luckyColor": "#F48FB1"
       },
       "Scorpio": {
         "date": "2026-02-02",
@@ -136,7 +136,7 @@
           88,
           90
         ],
-        "luckyColor": "Deep Crimson"
+        "luckyColor": "#DC143C"
       },
       "Sagittarius": {
         "date": "2026-02-02",
@@ -153,7 +153,7 @@
           64,
           95
         ],
-        "luckyColor": "Electric Blue"
+        "luckyColor": "#00BCD4"
       },
       "Capricorn": {
         "date": "2026-02-02",
@@ -170,7 +170,7 @@
           85,
           98
         ],
-        "luckyColor": "Forest Green"
+        "luckyColor": "#228B22"
       },
       "Aquarius": {
         "date": "2026-02-02",
@@ -187,7 +187,7 @@
           74,
           76
         ],
-        "luckyColor": "Neon Teal"
+        "luckyColor": "#00BCD4"
       },
       "Pisces": {
         "date": "2026-02-02",
@@ -204,7 +204,7 @@
           20,
           47
         ],
-        "luckyColor": "Periwinkle"
+        "luckyColor": "#9C27B0"
       }
     }
   },
@@ -226,7 +226,7 @@
           55,
           89
         ],
-        "luckyColor": "Scarlet"
+        "luckyColor": "#DC143C"
       },
       "Taurus": {
         "date": "2026-02-03",
@@ -243,7 +243,7 @@
           66,
           80
         ],
-        "luckyColor": "Sage"
+        "luckyColor": "#228B22"
       },
       "Gemini": {
         "date": "2026-02-03",
@@ -260,7 +260,7 @@
           39,
           61
         ],
-        "luckyColor": "Turquoise"
+        "luckyColor": "#40E0D0"
       },
       "Cancer": {
         "date": "2026-02-03",
@@ -277,7 +277,7 @@
           75,
           92
         ],
-        "luckyColor": "Lavender"
+        "luckyColor": "#E6E6FA"
       },
       "Leo": {
         "date": "2026-02-03",
@@ -294,7 +294,7 @@
           73,
           84
         ],
-        "luckyColor": "Bronze"
+        "luckyColor": "#C9A84C"
       },
       "Virgo": {
         "date": "2026-02-03",
@@ -311,7 +311,7 @@
           85,
           92
         ],
-        "luckyColor": "Charcoal"
+        "luckyColor": "#546E7A"
       },
       "Libra": {
         "date": "2026-02-03",
@@ -328,7 +328,7 @@
           56,
           59
         ],
-        "luckyColor": "Powder Blue"
+        "luckyColor": "#00BCD4"
       },
       "Scorpio": {
         "date": "2026-02-03",
@@ -345,7 +345,7 @@
           57,
           77
         ],
-        "luckyColor": "Black"
+        "luckyColor": "#546E7A"
       },
       "Sagittarius": {
         "date": "2026-02-03",
@@ -362,7 +362,7 @@
           62,
           89
         ],
-        "luckyColor": "Bright Turquoise"
+        "luckyColor": "#40E0D0"
       },
       "Capricorn": {
         "date": "2026-02-03",
@@ -379,7 +379,7 @@
           45,
           82
         ],
-        "luckyColor": "Black"
+        "luckyColor": "#546E7A"
       },
       "Aquarius": {
         "date": "2026-02-03",
@@ -396,7 +396,7 @@
           88,
           89
         ],
-        "luckyColor": "Cerulean"
+        "luckyColor": "#0F52BA"
       },
       "Pisces": {
         "date": "2026-02-03",
@@ -413,7 +413,7 @@
           92,
           99
         ],
-        "luckyColor": "Teal"
+        "luckyColor": "#00BCD4"
       }
     }
   },
@@ -435,7 +435,7 @@
           51,
           78
         ],
-        "luckyColor": "Flame Orange"
+        "luckyColor": "#FF9800"
       },
       "Taurus": {
         "date": "2026-02-04",
@@ -452,7 +452,7 @@
           72,
           73
         ],
-        "luckyColor": "Rose Gold"
+        "luckyColor": "#F48FB1"
       },
       "Gemini": {
         "date": "2026-02-04",
@@ -469,7 +469,7 @@
           85,
           89
         ],
-        "luckyColor": "Lemon"
+        "luckyColor": "#FFBF00"
       },
       "Cancer": {
         "date": "2026-02-04",
@@ -486,7 +486,7 @@
           61,
           95
         ],
-        "luckyColor": "Moonbeam"
+        "luckyColor": "#B8C4D8"
       },
       "Leo": {
         "date": "2026-02-04",
@@ -503,7 +503,7 @@
           90,
           97
         ],
-        "luckyColor": "Marigold"
+        "luckyColor": "#FFBF00"
       },
       "Virgo": {
         "date": "2026-02-04",
@@ -520,7 +520,7 @@
           53,
           91
         ],
-        "luckyColor": "Forest Green"
+        "luckyColor": "#228B22"
       },
       "Libra": {
         "date": "2026-02-04",
@@ -537,7 +537,7 @@
           92,
           98
         ],
-        "luckyColor": "Blush Pink"
+        "luckyColor": "#F48FB1"
       },
       "Scorpio": {
         "date": "2026-02-04",
@@ -554,7 +554,7 @@
           89,
           94
         ],
-        "luckyColor": "Burgundy"
+        "luckyColor": "#8B0000"
       },
       "Sagittarius": {
         "date": "2026-02-04",
@@ -571,7 +571,7 @@
           79,
           99
         ],
-        "luckyColor": "Cobalt"
+        "luckyColor": "#0F52BA"
       },
       "Capricorn": {
         "date": "2026-02-04",
@@ -588,7 +588,7 @@
           58,
           76
         ],
-        "luckyColor": "Slate"
+        "luckyColor": "#546E7A"
       },
       "Aquarius": {
         "date": "2026-02-04",
@@ -605,7 +605,7 @@
           66,
           75
         ],
-        "luckyColor": "Cobalt"
+        "luckyColor": "#0F52BA"
       },
       "Pisces": {
         "date": "2026-02-04",
@@ -622,7 +622,7 @@
           68,
           89
         ],
-        "luckyColor": "Opalescent White"
+        "luckyColor": "#B8C4D8"
       }
     }
   },
@@ -644,7 +644,7 @@
           67,
           93
         ],
-        "luckyColor": "Bold Red"
+        "luckyColor": "#DC143C"
       },
       "Taurus": {
         "date": "2026-02-05",
@@ -661,7 +661,7 @@
           39,
           88
         ],
-        "luckyColor": "Dusty Pink"
+        "luckyColor": "#F48FB1"
       },
       "Gemini": {
         "date": "2026-02-05",
@@ -678,7 +678,7 @@
           59,
           87
         ],
-        "luckyColor": "Coral"
+        "luckyColor": "#FF7F50"
       },
       "Cancer": {
         "date": "2026-02-05",
@@ -695,7 +695,7 @@
           85,
           94
         ],
-        "luckyColor": "Aquamarine"
+        "luckyColor": "#40E0D0"
       },
       "Leo": {
         "date": "2026-02-05",
@@ -712,7 +712,7 @@
           45,
           86
         ],
-        "luckyColor": "Royal Gold"
+        "luckyColor": "#C9A84C"
       },
       "Virgo": {
         "date": "2026-02-05",
@@ -729,7 +729,7 @@
           73,
           80
         ],
-        "luckyColor": "Navy Blue"
+        "luckyColor": "#0F52BA"
       },
       "Libra": {
         "date": "2026-02-05",
@@ -746,7 +746,7 @@
           68,
           82
         ],
-        "luckyColor": "Lavender"
+        "luckyColor": "#E6E6FA"
       },
       "Scorpio": {
         "date": "2026-02-05",
@@ -763,7 +763,7 @@
           69,
           81
         ],
-        "luckyColor": "Dark Plum"
+        "luckyColor": "#9C27B0"
       },
       "Sagittarius": {
         "date": "2026-02-05",
@@ -780,7 +780,7 @@
           86,
           90
         ],
-        "luckyColor": "Violet"
+        "luckyColor": "#9C27B0"
       },
       "Capricorn": {
         "date": "2026-02-05",
@@ -797,7 +797,7 @@
           25,
           68
         ],
-        "luckyColor": "Deep Navy"
+        "luckyColor": "#0F52BA"
       },
       "Aquarius": {
         "date": "2026-02-05",
@@ -814,7 +814,7 @@
           63,
           77
         ],
-        "luckyColor": "Cyan"
+        "luckyColor": "#00BCD4"
       },
       "Pisces": {
         "date": "2026-02-05",
@@ -831,7 +831,7 @@
           58,
           66
         ],
-        "luckyColor": "Sea Green"
+        "luckyColor": "#00BCD4"
       }
     }
   },
@@ -853,7 +853,7 @@
           64,
           78
         ],
-        "luckyColor": "Fire Red"
+        "luckyColor": "#DC143C"
       },
       "Taurus": {
         "date": "2026-02-06",
@@ -870,7 +870,7 @@
           71,
           97
         ],
-        "luckyColor": "Cream"
+        "luckyColor": "#C9A84C"
       },
       "Gemini": {
         "date": "2026-02-06",
@@ -887,7 +887,7 @@
           71,
           78
         ],
-        "luckyColor": "Mint"
+        "luckyColor": "#40E0D0"
       },
       "Cancer": {
         "date": "2026-02-06",
@@ -904,7 +904,7 @@
           63,
           87
         ],
-        "luckyColor": "Silver"
+        "luckyColor": "#B8C4D8"
       },
       "Leo": {
         "date": "2026-02-06",
@@ -921,7 +921,7 @@
           23,
           25
         ],
-        "luckyColor": "Amber"
+        "luckyColor": "#FFBF00"
       },
       "Virgo": {
         "date": "2026-02-06",
@@ -938,7 +938,7 @@
           54,
           61
         ],
-        "luckyColor": "Slate Gray"
+        "luckyColor": "#546E7A"
       },
       "Libra": {
         "date": "2026-02-06",
@@ -955,7 +955,7 @@
           94,
           97
         ],
-        "luckyColor": "Lilac"
+        "luckyColor": "#E6E6FA"
       },
       "Scorpio": {
         "date": "2026-02-06",
@@ -972,7 +972,7 @@
           41,
           81
         ],
-        "luckyColor": "Obsidian"
+        "luckyColor": "#546E7A"
       },
       "Sagittarius": {
         "date": "2026-02-06",
@@ -989,7 +989,7 @@
           90,
           98
         ],
-        "luckyColor": "Indigo"
+        "luckyColor": "#4B0082"
       },
       "Capricorn": {
         "date": "2026-02-06",
@@ -1006,7 +1006,7 @@
           63,
           65
         ],
-        "luckyColor": "Ebony"
+        "luckyColor": "#546E7A"
       },
       "Aquarius": {
         "date": "2026-02-06",
@@ -1023,7 +1023,7 @@
           44,
           57
         ],
-        "luckyColor": "Electric Blue"
+        "luckyColor": "#00BCD4"
       },
       "Pisces": {
         "date": "2026-02-06",
@@ -1040,7 +1040,7 @@
           84,
           85
         ],
-        "luckyColor": "Aqua"
+        "luckyColor": "#00BCD4"
       }
     }
   },
@@ -1062,7 +1062,7 @@
           64,
           94
         ],
-        "luckyColor": "Copper"
+        "luckyColor": "#FF9800"
       },
       "Taurus": {
         "date": "2026-02-07",
@@ -1079,7 +1079,7 @@
           87,
           94
         ],
-        "luckyColor": "Earth Brown"
+        "luckyColor": "#546E7A"
       },
       "Gemini": {
         "date": "2026-02-07",
@@ -1096,7 +1096,7 @@
           20,
           98
         ],
-        "luckyColor": "Sunshine Yellow"
+        "luckyColor": "#FFBF00"
       },
       "Cancer": {
         "date": "2026-02-07",
@@ -1113,7 +1113,7 @@
           46,
           51
         ],
-        "luckyColor": "Pearl White"
+        "luckyColor": "#B8C4D8"
       },
       "Leo": {
         "date": "2026-02-07",
@@ -1130,7 +1130,7 @@
           93,
           96
         ],
-        "luckyColor": "Sunflower Yellow"
+        "luckyColor": "#FFBF00"
       },
       "Virgo": {
         "date": "2026-02-07",
@@ -1147,7 +1147,7 @@
           59,
           90
         ],
-        "luckyColor": "Ivory"
+        "luckyColor": "#B8C4D8"
       },
       "Libra": {
         "date": "2026-02-07",
@@ -1164,7 +1164,7 @@
           57,
           70
         ],
-        "luckyColor": "Rose"
+        "luckyColor": "#F48FB1"
       },
       "Scorpio": {
         "date": "2026-02-07",
@@ -1181,7 +1181,7 @@
           87,
           91
         ],
-        "luckyColor": "Maroon"
+        "luckyColor": "#800000"
       },
       "Sagittarius": {
         "date": "2026-02-07",
@@ -1198,7 +1198,7 @@
           95,
           97
         ],
-        "luckyColor": "Magenta"
+        "luckyColor": "#E040FB"
       },
       "Capricorn": {
         "date": "2026-02-07",
@@ -1215,7 +1215,7 @@
           53,
           93
         ],
-        "luckyColor": "Charcoal"
+        "luckyColor": "#546E7A"
       },
       "Aquarius": {
         "date": "2026-02-07",
@@ -1232,7 +1232,7 @@
           73,
           92
         ],
-        "luckyColor": "Violet"
+        "luckyColor": "#9C27B0"
       },
       "Pisces": {
         "date": "2026-02-07",
@@ -1249,7 +1249,7 @@
           90,
           95
         ],
-        "luckyColor": "Soft Violet"
+        "luckyColor": "#9C27B0"
       }
     }
   },
@@ -1271,7 +1271,7 @@
           58,
           88
         ],
-        "luckyColor": "Burgundy"
+        "luckyColor": "#8B0000"
       },
       "Taurus": {
         "date": "2026-02-08",
@@ -1288,7 +1288,7 @@
           74,
           83
         ],
-        "luckyColor": "Emerald Green"
+        "luckyColor": "#50C878"
       },
       "Gemini": {
         "date": "2026-02-08",
@@ -1305,7 +1305,7 @@
           83,
           88
         ],
-        "luckyColor": "Bright Orange"
+        "luckyColor": "#FF9800"
       },
       "Cancer": {
         "date": "2026-02-08",
@@ -1322,7 +1322,7 @@
           81,
           89
         ],
-        "luckyColor": "Soft Blue"
+        "luckyColor": "#00BCD4"
       },
       "Leo": {
         "date": "2026-02-08",
@@ -1339,7 +1339,7 @@
           64,
           78
         ],
-        "luckyColor": "Bright Orange"
+        "luckyColor": "#FF9800"
       },
       "Virgo": {
         "date": "2026-02-08",
@@ -1356,7 +1356,7 @@
           59,
           68
         ],
-        "luckyColor": "Dark Teal"
+        "luckyColor": "#00695C"
       },
       "Libra": {
         "date": "2026-02-08",
@@ -1373,7 +1373,7 @@
           55,
           79
         ],
-        "luckyColor": "Sky Blue"
+        "luckyColor": "#00BCD4"
       },
       "Scorpio": {
         "date": "2026-02-08",
@@ -1390,7 +1390,7 @@
           66,
           75
         ],
-        "luckyColor": "Midnight Blue"
+        "luckyColor": "#0F52BA"
       },
       "Sagittarius": {
         "date": "2026-02-08",
@@ -1407,7 +1407,7 @@
           92,
           96
         ],
-        "luckyColor": "Royal Purple"
+        "luckyColor": "#9C27B0"
       },
       "Capricorn": {
         "date": "2026-02-08",
@@ -1424,7 +1424,7 @@
           49,
           86
         ],
-        "luckyColor": "Dark Brown"
+        "luckyColor": "#546E7A"
       },
       "Aquarius": {
         "date": "2026-02-08",
@@ -1441,7 +1441,7 @@
           45,
           55
         ],
-        "luckyColor": "Aquamarine"
+        "luckyColor": "#40E0D0"
       },
       "Pisces": {
         "date": "2026-02-08",
@@ -1458,7 +1458,7 @@
           93,
           96
         ],
-        "luckyColor": "Seafoam"
+        "luckyColor": "#00BCD4"
       }
     }
   },
@@ -1480,7 +1480,7 @@
           90,
           98
         ],
-        "luckyColor": "Crimson"
+        "luckyColor": "#DC143C"
       },
       "Taurus": {
         "date": "2026-02-09",
@@ -1497,7 +1497,7 @@
           61,
           84
         ],
-        "luckyColor": "Forest Green"
+        "luckyColor": "#228B22"
       },
       "Gemini": {
         "date": "2026-02-09",
@@ -1514,7 +1514,7 @@
           60,
           81
         ],
-        "luckyColor": "Electric Blue"
+        "luckyColor": "#00BCD4"
       },
       "Cancer": {
         "date": "2026-02-09",
@@ -1531,7 +1531,7 @@
           42,
           75
         ],
-        "luckyColor": "Sea Foam"
+        "luckyColor": "#00BCD4"
       },
       "Leo": {
         "date": "2026-02-09",
@@ -1548,7 +1548,7 @@
           76,
           80
         ],
-        "luckyColor": "Champagne"
+        "luckyColor": "#C9A84C"
       },
       "Virgo": {
         "date": "2026-02-09",
@@ -1565,7 +1565,7 @@
           58,
           90
         ],
-        "luckyColor": "Olive"
+        "luckyColor": "#228B22"
       },
       "Libra": {
         "date": "2026-02-09",
@@ -1582,7 +1582,7 @@
           52,
           70
         ],
-        "luckyColor": "Soft Mauve"
+        "luckyColor": "#F48FB1"
       },
       "Scorpio": {
         "date": "2026-02-09",
@@ -1599,7 +1599,7 @@
           95,
           98
         ],
-        "luckyColor": "Deep Crimson"
+        "luckyColor": "#DC143C"
       },
       "Sagittarius": {
         "date": "2026-02-09",
@@ -1616,7 +1616,7 @@
           63,
           80
         ],
-        "luckyColor": "Electric Blue"
+        "luckyColor": "#00BCD4"
       },
       "Capricorn": {
         "date": "2026-02-09",
@@ -1633,7 +1633,7 @@
           62,
           84
         ],
-        "luckyColor": "Forest Green"
+        "luckyColor": "#228B22"
       },
       "Aquarius": {
         "date": "2026-02-09",
@@ -1650,7 +1650,7 @@
           90,
           92
         ],
-        "luckyColor": "Neon Teal"
+        "luckyColor": "#00BCD4"
       },
       "Pisces": {
         "date": "2026-02-09",
@@ -1667,7 +1667,7 @@
           60,
           89
         ],
-        "luckyColor": "Periwinkle"
+        "luckyColor": "#9C27B0"
       }
     }
   },
@@ -1689,7 +1689,7 @@
           81,
           88
         ],
-        "luckyColor": "Scarlet"
+        "luckyColor": "#DC143C"
       },
       "Taurus": {
         "date": "2026-02-10",
@@ -1706,7 +1706,7 @@
           90,
           95
         ],
-        "luckyColor": "Sage"
+        "luckyColor": "#228B22"
       },
       "Gemini": {
         "date": "2026-02-10",
@@ -1723,7 +1723,7 @@
           38,
           62
         ],
-        "luckyColor": "Turquoise"
+        "luckyColor": "#40E0D0"
       },
       "Cancer": {
         "date": "2026-02-10",
@@ -1740,7 +1740,7 @@
           86,
           96
         ],
-        "luckyColor": "Lavender"
+        "luckyColor": "#E6E6FA"
       },
       "Leo": {
         "date": "2026-02-10",
@@ -1757,7 +1757,7 @@
           71,
           98
         ],
-        "luckyColor": "Bronze"
+        "luckyColor": "#C9A84C"
       },
       "Virgo": {
         "date": "2026-02-10",
@@ -1774,7 +1774,7 @@
           94,
           98
         ],
-        "luckyColor": "Charcoal"
+        "luckyColor": "#546E7A"
       },
       "Libra": {
         "date": "2026-02-10",
@@ -1791,7 +1791,7 @@
           58,
           70
         ],
-        "luckyColor": "Powder Blue"
+        "luckyColor": "#00BCD4"
       },
       "Scorpio": {
         "date": "2026-02-10",
@@ -1808,7 +1808,7 @@
           78,
           92
         ],
-        "luckyColor": "Black"
+        "luckyColor": "#546E7A"
       },
       "Sagittarius": {
         "date": "2026-02-10",
@@ -1825,7 +1825,7 @@
           80,
           88
         ],
-        "luckyColor": "Bright Turquoise"
+        "luckyColor": "#40E0D0"
       },
       "Capricorn": {
         "date": "2026-02-10",
@@ -1842,7 +1842,7 @@
           95,
           99
         ],
-        "luckyColor": "Black"
+        "luckyColor": "#546E7A"
       },
       "Aquarius": {
         "date": "2026-02-10",
@@ -1859,7 +1859,7 @@
           87,
           98
         ],
-        "luckyColor": "Cerulean"
+        "luckyColor": "#0F52BA"
       },
       "Pisces": {
         "date": "2026-02-10",
@@ -1876,7 +1876,7 @@
           45,
           83
         ],
-        "luckyColor": "Teal"
+        "luckyColor": "#00BCD4"
       }
     }
   },
@@ -1898,7 +1898,7 @@
           82,
           93
         ],
-        "luckyColor": "Flame Orange"
+        "luckyColor": "#FF9800"
       },
       "Taurus": {
         "date": "2026-02-11",
@@ -1915,7 +1915,7 @@
           62,
           77
         ],
-        "luckyColor": "Rose Gold"
+        "luckyColor": "#F48FB1"
       },
       "Gemini": {
         "date": "2026-02-11",
@@ -1932,7 +1932,7 @@
           87,
           95
         ],
-        "luckyColor": "Lemon"
+        "luckyColor": "#FFBF00"
       },
       "Cancer": {
         "date": "2026-02-11",
@@ -1949,7 +1949,7 @@
           80,
           84
         ],
-        "luckyColor": "Moonbeam"
+        "luckyColor": "#B8C4D8"
       },
       "Leo": {
         "date": "2026-02-11",
@@ -1966,7 +1966,7 @@
           58,
           98
         ],
-        "luckyColor": "Marigold"
+        "luckyColor": "#FFBF00"
       },
       "Virgo": {
         "date": "2026-02-11",
@@ -1983,7 +1983,7 @@
           83,
           84
         ],
-        "luckyColor": "Forest Green"
+        "luckyColor": "#228B22"
       },
       "Libra": {
         "date": "2026-02-11",
@@ -2000,7 +2000,7 @@
           75,
           81
         ],
-        "luckyColor": "Blush Pink"
+        "luckyColor": "#F48FB1"
       },
       "Scorpio": {
         "date": "2026-02-11",
@@ -2017,7 +2017,7 @@
           52,
           53
         ],
-        "luckyColor": "Burgundy"
+        "luckyColor": "#8B0000"
       },
       "Sagittarius": {
         "date": "2026-02-11",
@@ -2034,7 +2034,7 @@
           65,
           67
         ],
-        "luckyColor": "Cobalt"
+        "luckyColor": "#0F52BA"
       },
       "Capricorn": {
         "date": "2026-02-11",
@@ -2051,7 +2051,7 @@
           55,
           96
         ],
-        "luckyColor": "Slate"
+        "luckyColor": "#546E7A"
       },
       "Aquarius": {
         "date": "2026-02-11",
@@ -2068,7 +2068,7 @@
           46,
           72
         ],
-        "luckyColor": "Cobalt"
+        "luckyColor": "#0F52BA"
       },
       "Pisces": {
         "date": "2026-02-11",
@@ -2085,7 +2085,7 @@
           38,
           94
         ],
-        "luckyColor": "Opalescent White"
+        "luckyColor": "#B8C4D8"
       }
     }
   },
@@ -2107,7 +2107,7 @@
           64,
           99
         ],
-        "luckyColor": "Bold Red"
+        "luckyColor": "#DC143C"
       },
       "Taurus": {
         "date": "2026-02-12",
@@ -2124,7 +2124,7 @@
           52,
           83
         ],
-        "luckyColor": "Dusty Pink"
+        "luckyColor": "#F48FB1"
       },
       "Gemini": {
         "date": "2026-02-12",
@@ -2141,7 +2141,7 @@
           77,
           89
         ],
-        "luckyColor": "Coral"
+        "luckyColor": "#FF7F50"
       },
       "Cancer": {
         "date": "2026-02-12",
@@ -2158,7 +2158,7 @@
           40,
           49
         ],
-        "luckyColor": "Aquamarine"
+        "luckyColor": "#40E0D0"
       },
       "Leo": {
         "date": "2026-02-12",
@@ -2175,7 +2175,7 @@
           84,
           94
         ],
-        "luckyColor": "Royal Gold"
+        "luckyColor": "#C9A84C"
       },
       "Virgo": {
         "date": "2026-02-12",
@@ -2192,7 +2192,7 @@
           51,
           60
         ],
-        "luckyColor": "Navy Blue"
+        "luckyColor": "#0F52BA"
       },
       "Libra": {
         "date": "2026-02-12",
@@ -2209,7 +2209,7 @@
           75,
           82
         ],
-        "luckyColor": "Lavender"
+        "luckyColor": "#E6E6FA"
       },
       "Scorpio": {
         "date": "2026-02-12",
@@ -2226,7 +2226,7 @@
           79,
           96
         ],
-        "luckyColor": "Dark Plum"
+        "luckyColor": "#9C27B0"
       },
       "Sagittarius": {
         "date": "2026-02-12",
@@ -2243,7 +2243,7 @@
           35,
           61
         ],
-        "luckyColor": "Violet"
+        "luckyColor": "#9C27B0"
       },
       "Capricorn": {
         "date": "2026-02-12",
@@ -2260,7 +2260,7 @@
           62,
           89
         ],
-        "luckyColor": "Deep Navy"
+        "luckyColor": "#0F52BA"
       },
       "Aquarius": {
         "date": "2026-02-12",
@@ -2277,7 +2277,7 @@
           34,
           53
         ],
-        "luckyColor": "Cyan"
+        "luckyColor": "#00BCD4"
       },
       "Pisces": {
         "date": "2026-02-12",
@@ -2294,7 +2294,7 @@
           61,
           72
         ],
-        "luckyColor": "Sea Green"
+        "luckyColor": "#00BCD4"
       }
     }
   },
@@ -2316,7 +2316,7 @@
           94,
           97
         ],
-        "luckyColor": "Fire Red"
+        "luckyColor": "#DC143C"
       },
       "Taurus": {
         "date": "2026-02-13",
@@ -2333,7 +2333,7 @@
           70,
           85
         ],
-        "luckyColor": "Cream"
+        "luckyColor": "#C9A84C"
       },
       "Gemini": {
         "date": "2026-02-13",
@@ -2350,7 +2350,7 @@
           85,
           90
         ],
-        "luckyColor": "Mint"
+        "luckyColor": "#40E0D0"
       },
       "Cancer": {
         "date": "2026-02-13",
@@ -2367,7 +2367,7 @@
           57,
           84
         ],
-        "luckyColor": "Silver"
+        "luckyColor": "#B8C4D8"
       },
       "Leo": {
         "date": "2026-02-13",
@@ -2384,7 +2384,7 @@
           71,
           93
         ],
-        "luckyColor": "Amber"
+        "luckyColor": "#FFBF00"
       },
       "Virgo": {
         "date": "2026-02-13",
@@ -2401,7 +2401,7 @@
           64,
           76
         ],
-        "luckyColor": "Slate Gray"
+        "luckyColor": "#546E7A"
       },
       "Libra": {
         "date": "2026-02-13",
@@ -2418,7 +2418,7 @@
           55,
           94
         ],
-        "luckyColor": "Lilac"
+        "luckyColor": "#E6E6FA"
       },
       "Scorpio": {
         "date": "2026-02-13",
@@ -2435,7 +2435,7 @@
           77,
           78
         ],
-        "luckyColor": "Obsidian"
+        "luckyColor": "#546E7A"
       },
       "Sagittarius": {
         "date": "2026-02-13",
@@ -2452,7 +2452,7 @@
           44,
           50
         ],
-        "luckyColor": "Indigo"
+        "luckyColor": "#4B0082"
       },
       "Capricorn": {
         "date": "2026-02-13",
@@ -2469,7 +2469,7 @@
           70,
           94
         ],
-        "luckyColor": "Ebony"
+        "luckyColor": "#546E7A"
       },
       "Aquarius": {
         "date": "2026-02-13",
@@ -2486,7 +2486,7 @@
           54,
           81
         ],
-        "luckyColor": "Electric Blue"
+        "luckyColor": "#00BCD4"
       },
       "Pisces": {
         "date": "2026-02-13",
@@ -2503,7 +2503,7 @@
           51,
           87
         ],
-        "luckyColor": "Aqua"
+        "luckyColor": "#00BCD4"
       }
     }
   },
@@ -2525,7 +2525,7 @@
           79,
           92
         ],
-        "luckyColor": "Copper"
+        "luckyColor": "#FF9800"
       },
       "Taurus": {
         "date": "2026-02-14",
@@ -2542,7 +2542,7 @@
           54,
           74
         ],
-        "luckyColor": "Earth Brown"
+        "luckyColor": "#546E7A"
       },
       "Gemini": {
         "date": "2026-02-14",
@@ -2559,7 +2559,7 @@
           42,
           59
         ],
-        "luckyColor": "Sunshine Yellow"
+        "luckyColor": "#FFBF00"
       },
       "Cancer": {
         "date": "2026-02-14",
@@ -2576,7 +2576,7 @@
           71,
           74
         ],
-        "luckyColor": "Pearl White"
+        "luckyColor": "#B8C4D8"
       },
       "Leo": {
         "date": "2026-02-14",
@@ -2593,7 +2593,7 @@
           71,
           99
         ],
-        "luckyColor": "Sunflower Yellow"
+        "luckyColor": "#FFBF00"
       },
       "Virgo": {
         "date": "2026-02-14",
@@ -2610,7 +2610,7 @@
           83,
           87
         ],
-        "luckyColor": "Ivory"
+        "luckyColor": "#B8C4D8"
       },
       "Libra": {
         "date": "2026-02-14",
@@ -2627,7 +2627,7 @@
           83,
           84
         ],
-        "luckyColor": "Rose"
+        "luckyColor": "#F48FB1"
       },
       "Scorpio": {
         "date": "2026-02-14",
@@ -2644,7 +2644,7 @@
           92,
           94
         ],
-        "luckyColor": "Maroon"
+        "luckyColor": "#800000"
       },
       "Sagittarius": {
         "date": "2026-02-14",
@@ -2661,7 +2661,7 @@
           45,
           69
         ],
-        "luckyColor": "Magenta"
+        "luckyColor": "#E040FB"
       },
       "Capricorn": {
         "date": "2026-02-14",
@@ -2678,7 +2678,7 @@
           63,
           90
         ],
-        "luckyColor": "Charcoal"
+        "luckyColor": "#546E7A"
       },
       "Aquarius": {
         "date": "2026-02-14",
@@ -2695,7 +2695,7 @@
           75,
           87
         ],
-        "luckyColor": "Violet"
+        "luckyColor": "#9C27B0"
       },
       "Pisces": {
         "date": "2026-02-14",
@@ -2712,7 +2712,7 @@
           51,
           68
         ],
-        "luckyColor": "Soft Violet"
+        "luckyColor": "#9C27B0"
       }
     }
   },
@@ -2734,7 +2734,7 @@
           38,
           42
         ],
-        "luckyColor": "Burgundy"
+        "luckyColor": "#8B0000"
       },
       "Taurus": {
         "date": "2026-02-15",
@@ -2751,7 +2751,7 @@
           58,
           66
         ],
-        "luckyColor": "Emerald Green"
+        "luckyColor": "#50C878"
       },
       "Gemini": {
         "date": "2026-02-15",
@@ -2768,7 +2768,7 @@
           29,
           54
         ],
-        "luckyColor": "Bright Orange"
+        "luckyColor": "#FF9800"
       },
       "Cancer": {
         "date": "2026-02-15",
@@ -2785,7 +2785,7 @@
           70,
           89
         ],
-        "luckyColor": "Soft Blue"
+        "luckyColor": "#00BCD4"
       },
       "Leo": {
         "date": "2026-02-15",
@@ -2802,7 +2802,7 @@
           77,
           91
         ],
-        "luckyColor": "Bright Orange"
+        "luckyColor": "#FF9800"
       },
       "Virgo": {
         "date": "2026-02-15",
@@ -2819,7 +2819,7 @@
           67,
           80
         ],
-        "luckyColor": "Dark Teal"
+        "luckyColor": "#00695C"
       },
       "Libra": {
         "date": "2026-02-15",
@@ -2836,7 +2836,7 @@
           82,
           97
         ],
-        "luckyColor": "Sky Blue"
+        "luckyColor": "#00BCD4"
       },
       "Scorpio": {
         "date": "2026-02-15",
@@ -2853,7 +2853,7 @@
           55,
           81
         ],
-        "luckyColor": "Midnight Blue"
+        "luckyColor": "#0F52BA"
       },
       "Sagittarius": {
         "date": "2026-02-15",
@@ -2870,7 +2870,7 @@
           64,
           82
         ],
-        "luckyColor": "Royal Purple"
+        "luckyColor": "#9C27B0"
       },
       "Capricorn": {
         "date": "2026-02-15",
@@ -2887,7 +2887,7 @@
           71,
           93
         ],
-        "luckyColor": "Dark Brown"
+        "luckyColor": "#546E7A"
       },
       "Aquarius": {
         "date": "2026-02-15",
@@ -2904,7 +2904,7 @@
           95,
           96
         ],
-        "luckyColor": "Aquamarine"
+        "luckyColor": "#40E0D0"
       },
       "Pisces": {
         "date": "2026-02-15",
@@ -2921,7 +2921,7 @@
           48,
           82
         ],
-        "luckyColor": "Seafoam"
+        "luckyColor": "#00BCD4"
       }
     }
   },
@@ -2943,7 +2943,7 @@
           80,
           95
         ],
-        "luckyColor": "Crimson"
+        "luckyColor": "#DC143C"
       },
       "Taurus": {
         "date": "2026-02-16",
@@ -2960,7 +2960,7 @@
           42,
           59
         ],
-        "luckyColor": "Forest Green"
+        "luckyColor": "#228B22"
       },
       "Gemini": {
         "date": "2026-02-16",
@@ -2977,7 +2977,7 @@
           46,
           74
         ],
-        "luckyColor": "Electric Blue"
+        "luckyColor": "#00BCD4"
       },
       "Cancer": {
         "date": "2026-02-16",
@@ -2994,7 +2994,7 @@
           94,
           95
         ],
-        "luckyColor": "Sea Foam"
+        "luckyColor": "#00BCD4"
       },
       "Leo": {
         "date": "2026-02-16",
@@ -3011,7 +3011,7 @@
           92,
           93
         ],
-        "luckyColor": "Champagne"
+        "luckyColor": "#C9A84C"
       },
       "Virgo": {
         "date": "2026-02-16",
@@ -3028,7 +3028,7 @@
           76,
           98
         ],
-        "luckyColor": "Olive"
+        "luckyColor": "#228B22"
       },
       "Libra": {
         "date": "2026-02-16",
@@ -3045,7 +3045,7 @@
           71,
           94
         ],
-        "luckyColor": "Soft Mauve"
+        "luckyColor": "#F48FB1"
       },
       "Scorpio": {
         "date": "2026-02-16",
@@ -3062,7 +3062,7 @@
           73,
           88
         ],
-        "luckyColor": "Deep Crimson"
+        "luckyColor": "#DC143C"
       },
       "Sagittarius": {
         "date": "2026-02-16",
@@ -3079,7 +3079,7 @@
           97,
           99
         ],
-        "luckyColor": "Electric Blue"
+        "luckyColor": "#00BCD4"
       },
       "Capricorn": {
         "date": "2026-02-16",
@@ -3096,7 +3096,7 @@
           82,
           95
         ],
-        "luckyColor": "Forest Green"
+        "luckyColor": "#228B22"
       },
       "Aquarius": {
         "date": "2026-02-16",
@@ -3113,7 +3113,7 @@
           86,
           93
         ],
-        "luckyColor": "Neon Teal"
+        "luckyColor": "#00BCD4"
       },
       "Pisces": {
         "date": "2026-02-16",
@@ -3130,7 +3130,7 @@
           84,
           86
         ],
-        "luckyColor": "Periwinkle"
+        "luckyColor": "#9C27B0"
       }
     }
   },
@@ -3152,7 +3152,7 @@
           79,
           99
         ],
-        "luckyColor": "Scarlet"
+        "luckyColor": "#DC143C"
       },
       "Taurus": {
         "date": "2026-02-17",
@@ -3169,7 +3169,7 @@
           56,
           78
         ],
-        "luckyColor": "Sage"
+        "luckyColor": "#228B22"
       },
       "Gemini": {
         "date": "2026-02-17",
@@ -3186,7 +3186,7 @@
           67,
           80
         ],
-        "luckyColor": "Turquoise"
+        "luckyColor": "#40E0D0"
       },
       "Cancer": {
         "date": "2026-02-17",
@@ -3203,7 +3203,7 @@
           52,
           64
         ],
-        "luckyColor": "Lavender"
+        "luckyColor": "#E6E6FA"
       },
       "Leo": {
         "date": "2026-02-17",
@@ -3220,7 +3220,7 @@
           83,
           84
         ],
-        "luckyColor": "Bronze"
+        "luckyColor": "#C9A84C"
       },
       "Virgo": {
         "date": "2026-02-17",
@@ -3237,7 +3237,7 @@
           33,
           98
         ],
-        "luckyColor": "Charcoal"
+        "luckyColor": "#546E7A"
       },
       "Libra": {
         "date": "2026-02-17",
@@ -3254,7 +3254,7 @@
           69,
           91
         ],
-        "luckyColor": "Powder Blue"
+        "luckyColor": "#00BCD4"
       },
       "Scorpio": {
         "date": "2026-02-17",
@@ -3271,7 +3271,7 @@
           41,
           97
         ],
-        "luckyColor": "Black"
+        "luckyColor": "#546E7A"
       },
       "Sagittarius": {
         "date": "2026-02-17",
@@ -3288,7 +3288,7 @@
           51,
           65
         ],
-        "luckyColor": "Bright Turquoise"
+        "luckyColor": "#40E0D0"
       },
       "Capricorn": {
         "date": "2026-02-17",
@@ -3305,7 +3305,7 @@
           40,
           61
         ],
-        "luckyColor": "Black"
+        "luckyColor": "#546E7A"
       },
       "Aquarius": {
         "date": "2026-02-17",
@@ -3322,7 +3322,7 @@
           67,
           82
         ],
-        "luckyColor": "Cerulean"
+        "luckyColor": "#0F52BA"
       },
       "Pisces": {
         "date": "2026-02-17",
@@ -3339,7 +3339,7 @@
           61,
           94
         ],
-        "luckyColor": "Teal"
+        "luckyColor": "#00BCD4"
       }
     }
   },
@@ -3361,7 +3361,7 @@
           76,
           97
         ],
-        "luckyColor": "Flame Orange"
+        "luckyColor": "#FF9800"
       },
       "Taurus": {
         "date": "2026-02-18",
@@ -3378,7 +3378,7 @@
           60,
           98
         ],
-        "luckyColor": "Rose Gold"
+        "luckyColor": "#F48FB1"
       },
       "Gemini": {
         "date": "2026-02-18",
@@ -3395,7 +3395,7 @@
           82,
           98
         ],
-        "luckyColor": "Lemon"
+        "luckyColor": "#FFBF00"
       },
       "Cancer": {
         "date": "2026-02-18",
@@ -3412,7 +3412,7 @@
           45,
           77
         ],
-        "luckyColor": "Moonbeam"
+        "luckyColor": "#B8C4D8"
       },
       "Leo": {
         "date": "2026-02-18",
@@ -3429,7 +3429,7 @@
           75,
           93
         ],
-        "luckyColor": "Marigold"
+        "luckyColor": "#FFBF00"
       },
       "Virgo": {
         "date": "2026-02-18",
@@ -3446,7 +3446,7 @@
           64,
           97
         ],
-        "luckyColor": "Forest Green"
+        "luckyColor": "#228B22"
       },
       "Libra": {
         "date": "2026-02-18",
@@ -3463,7 +3463,7 @@
           53,
           72
         ],
-        "luckyColor": "Blush Pink"
+        "luckyColor": "#F48FB1"
       },
       "Scorpio": {
         "date": "2026-02-18",
@@ -3480,7 +3480,7 @@
           71,
           89
         ],
-        "luckyColor": "Burgundy"
+        "luckyColor": "#8B0000"
       },
       "Sagittarius": {
         "date": "2026-02-18",
@@ -3497,7 +3497,7 @@
           81,
           93
         ],
-        "luckyColor": "Cobalt"
+        "luckyColor": "#0F52BA"
       },
       "Capricorn": {
         "date": "2026-02-18",
@@ -3514,7 +3514,7 @@
           60,
           66
         ],
-        "luckyColor": "Slate"
+        "luckyColor": "#546E7A"
       },
       "Aquarius": {
         "date": "2026-02-18",
@@ -3531,7 +3531,7 @@
           71,
           90
         ],
-        "luckyColor": "Cobalt"
+        "luckyColor": "#0F52BA"
       },
       "Pisces": {
         "date": "2026-02-18",
@@ -3548,7 +3548,7 @@
           43,
           82
         ],
-        "luckyColor": "Opalescent White"
+        "luckyColor": "#B8C4D8"
       }
     }
   },
@@ -3570,7 +3570,7 @@
           55,
           92
         ],
-        "luckyColor": "Bold Red"
+        "luckyColor": "#DC143C"
       },
       "Taurus": {
         "date": "2026-02-19",
@@ -3587,7 +3587,7 @@
           83,
           95
         ],
-        "luckyColor": "Dusty Pink"
+        "luckyColor": "#F48FB1"
       },
       "Gemini": {
         "date": "2026-02-19",
@@ -3604,7 +3604,7 @@
           70,
           97
         ],
-        "luckyColor": "Coral"
+        "luckyColor": "#FF7F50"
       },
       "Cancer": {
         "date": "2026-02-19",
@@ -3621,7 +3621,7 @@
           89,
           96
         ],
-        "luckyColor": "Aquamarine"
+        "luckyColor": "#40E0D0"
       },
       "Leo": {
         "date": "2026-02-19",
@@ -3638,7 +3638,7 @@
           85,
           97
         ],
-        "luckyColor": "Royal Gold"
+        "luckyColor": "#C9A84C"
       },
       "Virgo": {
         "date": "2026-02-19",
@@ -3655,7 +3655,7 @@
           77,
           97
         ],
-        "luckyColor": "Navy Blue"
+        "luckyColor": "#0F52BA"
       },
       "Libra": {
         "date": "2026-02-19",
@@ -3672,7 +3672,7 @@
           61,
           96
         ],
-        "luckyColor": "Lavender"
+        "luckyColor": "#E6E6FA"
       },
       "Scorpio": {
         "date": "2026-02-19",
@@ -3689,7 +3689,7 @@
           53,
           86
         ],
-        "luckyColor": "Dark Plum"
+        "luckyColor": "#9C27B0"
       },
       "Sagittarius": {
         "date": "2026-02-19",
@@ -3706,7 +3706,7 @@
           85,
           98
         ],
-        "luckyColor": "Violet"
+        "luckyColor": "#9C27B0"
       },
       "Capricorn": {
         "date": "2026-02-19",
@@ -3723,7 +3723,7 @@
           91,
           94
         ],
-        "luckyColor": "Deep Navy"
+        "luckyColor": "#0F52BA"
       },
       "Aquarius": {
         "date": "2026-02-19",
@@ -3740,7 +3740,7 @@
           83,
           91
         ],
-        "luckyColor": "Cyan"
+        "luckyColor": "#00BCD4"
       },
       "Pisces": {
         "date": "2026-02-19",
@@ -3757,7 +3757,7 @@
           83,
           95
         ],
-        "luckyColor": "Sea Green"
+        "luckyColor": "#00BCD4"
       }
     }
   },
@@ -3779,7 +3779,7 @@
           64,
           94
         ],
-        "luckyColor": "Fire Red"
+        "luckyColor": "#DC143C"
       },
       "Taurus": {
         "date": "2026-02-20",
@@ -3796,7 +3796,7 @@
           92,
           93
         ],
-        "luckyColor": "Cream"
+        "luckyColor": "#C9A84C"
       },
       "Gemini": {
         "date": "2026-02-20",
@@ -3813,7 +3813,7 @@
           80,
           97
         ],
-        "luckyColor": "Mint"
+        "luckyColor": "#40E0D0"
       },
       "Cancer": {
         "date": "2026-02-20",
@@ -3830,7 +3830,7 @@
           94,
           95
         ],
-        "luckyColor": "Silver"
+        "luckyColor": "#B8C4D8"
       },
       "Leo": {
         "date": "2026-02-20",
@@ -3847,7 +3847,7 @@
           47,
           62
         ],
-        "luckyColor": "Amber"
+        "luckyColor": "#FFBF00"
       },
       "Virgo": {
         "date": "2026-02-20",
@@ -3864,7 +3864,7 @@
           96,
           98
         ],
-        "luckyColor": "Slate Gray"
+        "luckyColor": "#546E7A"
       },
       "Libra": {
         "date": "2026-02-20",
@@ -3881,7 +3881,7 @@
           67,
           69
         ],
-        "luckyColor": "Lilac"
+        "luckyColor": "#E6E6FA"
       },
       "Scorpio": {
         "date": "2026-02-20",
@@ -3898,7 +3898,7 @@
           30,
           53
         ],
-        "luckyColor": "Obsidian"
+        "luckyColor": "#546E7A"
       },
       "Sagittarius": {
         "date": "2026-02-20",
@@ -3915,7 +3915,7 @@
           51,
           52
         ],
-        "luckyColor": "Indigo"
+        "luckyColor": "#4B0082"
       },
       "Capricorn": {
         "date": "2026-02-20",
@@ -3932,7 +3932,7 @@
           76,
           91
         ],
-        "luckyColor": "Ebony"
+        "luckyColor": "#546E7A"
       },
       "Aquarius": {
         "date": "2026-02-20",
@@ -3949,7 +3949,7 @@
           62,
           99
         ],
-        "luckyColor": "Electric Blue"
+        "luckyColor": "#00BCD4"
       },
       "Pisces": {
         "date": "2026-02-20",
@@ -3966,7 +3966,7 @@
           92,
           96
         ],
-        "luckyColor": "Aqua"
+        "luckyColor": "#00BCD4"
       }
     }
   },
@@ -3988,7 +3988,7 @@
           85,
           98
         ],
-        "luckyColor": "Copper"
+        "luckyColor": "#FF9800"
       },
       "Taurus": {
         "date": "2026-02-21",
@@ -4005,7 +4005,7 @@
           92,
           94
         ],
-        "luckyColor": "Earth Brown"
+        "luckyColor": "#546E7A"
       },
       "Gemini": {
         "date": "2026-02-21",
@@ -4022,7 +4022,7 @@
           82,
           99
         ],
-        "luckyColor": "Sunshine Yellow"
+        "luckyColor": "#FFBF00"
       },
       "Cancer": {
         "date": "2026-02-21",
@@ -4039,7 +4039,7 @@
           66,
           90
         ],
-        "luckyColor": "Pearl White"
+        "luckyColor": "#B8C4D8"
       },
       "Leo": {
         "date": "2026-02-21",
@@ -4056,7 +4056,7 @@
           86,
           94
         ],
-        "luckyColor": "Sunflower Yellow"
+        "luckyColor": "#FFBF00"
       },
       "Virgo": {
         "date": "2026-02-21",
@@ -4073,7 +4073,7 @@
           50,
           78
         ],
-        "luckyColor": "Ivory"
+        "luckyColor": "#B8C4D8"
       },
       "Libra": {
         "date": "2026-02-21",
@@ -4090,7 +4090,7 @@
           77,
           82
         ],
-        "luckyColor": "Rose"
+        "luckyColor": "#F48FB1"
       },
       "Scorpio": {
         "date": "2026-02-21",
@@ -4107,7 +4107,7 @@
           50,
           70
         ],
-        "luckyColor": "Maroon"
+        "luckyColor": "#800000"
       },
       "Sagittarius": {
         "date": "2026-02-21",
@@ -4124,7 +4124,7 @@
           80,
           93
         ],
-        "luckyColor": "Magenta"
+        "luckyColor": "#E040FB"
       },
       "Capricorn": {
         "date": "2026-02-21",
@@ -4141,7 +4141,7 @@
           74,
           93
         ],
-        "luckyColor": "Charcoal"
+        "luckyColor": "#546E7A"
       },
       "Aquarius": {
         "date": "2026-02-21",
@@ -4158,7 +4158,7 @@
           78,
           99
         ],
-        "luckyColor": "Violet"
+        "luckyColor": "#9C27B0"
       },
       "Pisces": {
         "date": "2026-02-21",
@@ -4175,7 +4175,7 @@
           69,
           74
         ],
-        "luckyColor": "Soft Violet"
+        "luckyColor": "#9C27B0"
       }
     }
   },
@@ -4197,7 +4197,7 @@
           66,
           87
         ],
-        "luckyColor": "Burgundy"
+        "luckyColor": "#8B0000"
       },
       "Taurus": {
         "date": "2026-02-22",
@@ -4214,7 +4214,7 @@
           16,
           75
         ],
-        "luckyColor": "Emerald Green"
+        "luckyColor": "#50C878"
       },
       "Gemini": {
         "date": "2026-02-22",
@@ -4231,7 +4231,7 @@
           39,
           63
         ],
-        "luckyColor": "Bright Orange"
+        "luckyColor": "#FF9800"
       },
       "Cancer": {
         "date": "2026-02-22",
@@ -4248,7 +4248,7 @@
           55,
           94
         ],
-        "luckyColor": "Soft Blue"
+        "luckyColor": "#00BCD4"
       },
       "Leo": {
         "date": "2026-02-22",
@@ -4265,7 +4265,7 @@
           72,
           73
         ],
-        "luckyColor": "Bright Orange"
+        "luckyColor": "#FF9800"
       },
       "Virgo": {
         "date": "2026-02-22",
@@ -4282,7 +4282,7 @@
           60,
           90
         ],
-        "luckyColor": "Dark Teal"
+        "luckyColor": "#00695C"
       },
       "Libra": {
         "date": "2026-02-22",
@@ -4299,7 +4299,7 @@
           71,
           77
         ],
-        "luckyColor": "Sky Blue"
+        "luckyColor": "#00BCD4"
       },
       "Scorpio": {
         "date": "2026-02-22",
@@ -4316,7 +4316,7 @@
           83,
           84
         ],
-        "luckyColor": "Midnight Blue"
+        "luckyColor": "#0F52BA"
       },
       "Sagittarius": {
         "date": "2026-02-22",
@@ -4333,7 +4333,7 @@
           59,
           72
         ],
-        "luckyColor": "Royal Purple"
+        "luckyColor": "#9C27B0"
       },
       "Capricorn": {
         "date": "2026-02-22",
@@ -4350,7 +4350,7 @@
           59,
           95
         ],
-        "luckyColor": "Dark Brown"
+        "luckyColor": "#546E7A"
       },
       "Aquarius": {
         "date": "2026-02-22",
@@ -4367,7 +4367,7 @@
           63,
           79
         ],
-        "luckyColor": "Aquamarine"
+        "luckyColor": "#40E0D0"
       },
       "Pisces": {
         "date": "2026-02-22",
@@ -4384,7 +4384,7 @@
           54,
           60
         ],
-        "luckyColor": "Seafoam"
+        "luckyColor": "#00BCD4"
       }
     }
   },
@@ -4406,7 +4406,7 @@
           91,
           92
         ],
-        "luckyColor": "Crimson"
+        "luckyColor": "#DC143C"
       },
       "Taurus": {
         "date": "2026-02-23",
@@ -4423,7 +4423,7 @@
           81,
           91
         ],
-        "luckyColor": "Forest Green"
+        "luckyColor": "#228B22"
       },
       "Gemini": {
         "date": "2026-02-23",
@@ -4440,7 +4440,7 @@
           69,
           98
         ],
-        "luckyColor": "Electric Blue"
+        "luckyColor": "#00BCD4"
       },
       "Cancer": {
         "date": "2026-02-23",
@@ -4457,7 +4457,7 @@
           72,
           99
         ],
-        "luckyColor": "Sea Foam"
+        "luckyColor": "#00BCD4"
       },
       "Leo": {
         "date": "2026-02-23",
@@ -4474,7 +4474,7 @@
           94,
           97
         ],
-        "luckyColor": "Champagne"
+        "luckyColor": "#C9A84C"
       },
       "Virgo": {
         "date": "2026-02-23",
@@ -4491,7 +4491,7 @@
           60,
           62
         ],
-        "luckyColor": "Olive"
+        "luckyColor": "#228B22"
       },
       "Libra": {
         "date": "2026-02-23",
@@ -4508,7 +4508,7 @@
           82,
           87
         ],
-        "luckyColor": "Soft Mauve"
+        "luckyColor": "#F48FB1"
       },
       "Scorpio": {
         "date": "2026-02-23",
@@ -4525,7 +4525,7 @@
           96,
           98
         ],
-        "luckyColor": "Deep Crimson"
+        "luckyColor": "#DC143C"
       },
       "Sagittarius": {
         "date": "2026-02-23",
@@ -4542,7 +4542,7 @@
           69,
           88
         ],
-        "luckyColor": "Electric Blue"
+        "luckyColor": "#00BCD4"
       },
       "Capricorn": {
         "date": "2026-02-23",
@@ -4559,7 +4559,7 @@
           63,
           76
         ],
-        "luckyColor": "Forest Green"
+        "luckyColor": "#228B22"
       },
       "Aquarius": {
         "date": "2026-02-23",
@@ -4576,7 +4576,7 @@
           95,
           99
         ],
-        "luckyColor": "Neon Teal"
+        "luckyColor": "#00BCD4"
       },
       "Pisces": {
         "date": "2026-02-23",
@@ -4593,7 +4593,7 @@
           90,
           97
         ],
-        "luckyColor": "Periwinkle"
+        "luckyColor": "#9C27B0"
       }
     }
   },
@@ -4615,7 +4615,7 @@
           41,
           77
         ],
-        "luckyColor": "Scarlet"
+        "luckyColor": "#DC143C"
       },
       "Taurus": {
         "date": "2026-02-24",
@@ -4632,7 +4632,7 @@
           89,
           93
         ],
-        "luckyColor": "Sage"
+        "luckyColor": "#228B22"
       },
       "Gemini": {
         "date": "2026-02-24",
@@ -4649,7 +4649,7 @@
           64,
           93
         ],
-        "luckyColor": "Turquoise"
+        "luckyColor": "#40E0D0"
       },
       "Cancer": {
         "date": "2026-02-24",
@@ -4666,7 +4666,7 @@
           72,
           77
         ],
-        "luckyColor": "Lavender"
+        "luckyColor": "#E6E6FA"
       },
       "Leo": {
         "date": "2026-02-24",
@@ -4683,7 +4683,7 @@
           40,
           88
         ],
-        "luckyColor": "Bronze"
+        "luckyColor": "#C9A84C"
       },
       "Virgo": {
         "date": "2026-02-24",
@@ -4700,7 +4700,7 @@
           16,
           83
         ],
-        "luckyColor": "Charcoal"
+        "luckyColor": "#546E7A"
       },
       "Libra": {
         "date": "2026-02-24",
@@ -4717,7 +4717,7 @@
           86,
           89
         ],
-        "luckyColor": "Powder Blue"
+        "luckyColor": "#00BCD4"
       },
       "Scorpio": {
         "date": "2026-02-24",
@@ -4734,7 +4734,7 @@
           81,
           90
         ],
-        "luckyColor": "Black"
+        "luckyColor": "#546E7A"
       },
       "Sagittarius": {
         "date": "2026-02-24",
@@ -4751,7 +4751,7 @@
           46,
           62
         ],
-        "luckyColor": "Bright Turquoise"
+        "luckyColor": "#40E0D0"
       },
       "Capricorn": {
         "date": "2026-02-24",
@@ -4768,7 +4768,7 @@
           70,
           84
         ],
-        "luckyColor": "Black"
+        "luckyColor": "#546E7A"
       },
       "Aquarius": {
         "date": "2026-02-24",
@@ -4785,7 +4785,7 @@
           80,
           87
         ],
-        "luckyColor": "Cerulean"
+        "luckyColor": "#0F52BA"
       },
       "Pisces": {
         "date": "2026-02-24",
@@ -4802,7 +4802,7 @@
           72,
           99
         ],
-        "luckyColor": "Teal"
+        "luckyColor": "#00BCD4"
       }
     }
   },
@@ -4824,7 +4824,7 @@
           66,
           93
         ],
-        "luckyColor": "Flame Orange"
+        "luckyColor": "#FF9800"
       },
       "Taurus": {
         "date": "2026-02-25",
@@ -4841,7 +4841,7 @@
           77,
           97
         ],
-        "luckyColor": "Rose Gold"
+        "luckyColor": "#F48FB1"
       },
       "Gemini": {
         "date": "2026-02-25",
@@ -4858,7 +4858,7 @@
           95,
           97
         ],
-        "luckyColor": "Lemon"
+        "luckyColor": "#FFBF00"
       },
       "Cancer": {
         "date": "2026-02-25",
@@ -4875,7 +4875,7 @@
           69,
           81
         ],
-        "luckyColor": "Moonbeam"
+        "luckyColor": "#B8C4D8"
       },
       "Leo": {
         "date": "2026-02-25",
@@ -4892,7 +4892,7 @@
           72,
           90
         ],
-        "luckyColor": "Marigold"
+        "luckyColor": "#FFBF00"
       },
       "Virgo": {
         "date": "2026-02-25",
@@ -4909,7 +4909,7 @@
           72,
           80
         ],
-        "luckyColor": "Forest Green"
+        "luckyColor": "#228B22"
       },
       "Libra": {
         "date": "2026-02-25",
@@ -4926,7 +4926,7 @@
           83,
           90
         ],
-        "luckyColor": "Blush Pink"
+        "luckyColor": "#F48FB1"
       },
       "Scorpio": {
         "date": "2026-02-25",
@@ -4943,7 +4943,7 @@
           88,
           98
         ],
-        "luckyColor": "Burgundy"
+        "luckyColor": "#8B0000"
       },
       "Sagittarius": {
         "date": "2026-02-25",
@@ -4960,7 +4960,7 @@
           47,
           78
         ],
-        "luckyColor": "Cobalt"
+        "luckyColor": "#0F52BA"
       },
       "Capricorn": {
         "date": "2026-02-25",
@@ -4977,7 +4977,7 @@
           81,
           93
         ],
-        "luckyColor": "Slate"
+        "luckyColor": "#546E7A"
       },
       "Aquarius": {
         "date": "2026-02-25",
@@ -4994,7 +4994,7 @@
           81,
           96
         ],
-        "luckyColor": "Cobalt"
+        "luckyColor": "#0F52BA"
       },
       "Pisces": {
         "date": "2026-02-25",
@@ -5011,7 +5011,7 @@
           47,
           96
         ],
-        "luckyColor": "Opalescent White"
+        "luckyColor": "#B8C4D8"
       }
     }
   },
@@ -5033,7 +5033,7 @@
           50,
           56
         ],
-        "luckyColor": "Bold Red"
+        "luckyColor": "#DC143C"
       },
       "Taurus": {
         "date": "2026-02-26",
@@ -5050,7 +5050,7 @@
           84,
           93
         ],
-        "luckyColor": "Dusty Pink"
+        "luckyColor": "#F48FB1"
       },
       "Gemini": {
         "date": "2026-02-26",
@@ -5067,7 +5067,7 @@
           98,
           99
         ],
-        "luckyColor": "Coral"
+        "luckyColor": "#FF7F50"
       },
       "Cancer": {
         "date": "2026-02-26",
@@ -5084,7 +5084,7 @@
           74,
           77
         ],
-        "luckyColor": "Aquamarine"
+        "luckyColor": "#40E0D0"
       },
       "Leo": {
         "date": "2026-02-26",
@@ -5101,7 +5101,7 @@
           94,
           95
         ],
-        "luckyColor": "Royal Gold"
+        "luckyColor": "#C9A84C"
       },
       "Virgo": {
         "date": "2026-02-26",
@@ -5118,7 +5118,7 @@
           68,
           70
         ],
-        "luckyColor": "Navy Blue"
+        "luckyColor": "#0F52BA"
       },
       "Libra": {
         "date": "2026-02-26",
@@ -5135,7 +5135,7 @@
           74,
           76
         ],
-        "luckyColor": "Lavender"
+        "luckyColor": "#E6E6FA"
       },
       "Scorpio": {
         "date": "2026-02-26",
@@ -5152,7 +5152,7 @@
           69,
           90
         ],
-        "luckyColor": "Dark Plum"
+        "luckyColor": "#9C27B0"
       },
       "Sagittarius": {
         "date": "2026-02-26",
@@ -5169,7 +5169,7 @@
           64,
           94
         ],
-        "luckyColor": "Violet"
+        "luckyColor": "#9C27B0"
       },
       "Capricorn": {
         "date": "2026-02-26",
@@ -5186,7 +5186,7 @@
           93,
           96
         ],
-        "luckyColor": "Deep Navy"
+        "luckyColor": "#0F52BA"
       },
       "Aquarius": {
         "date": "2026-02-26",
@@ -5203,7 +5203,7 @@
           86,
           97
         ],
-        "luckyColor": "Cyan"
+        "luckyColor": "#00BCD4"
       },
       "Pisces": {
         "date": "2026-02-26",
@@ -5220,7 +5220,7 @@
           86,
           98
         ],
-        "luckyColor": "Sea Green"
+        "luckyColor": "#00BCD4"
       }
     }
   },
@@ -5242,7 +5242,7 @@
           49,
           83
         ],
-        "luckyColor": "Fire Red"
+        "luckyColor": "#DC143C"
       },
       "Taurus": {
         "date": "2026-02-27",
@@ -5259,7 +5259,7 @@
           56,
           82
         ],
-        "luckyColor": "Cream"
+        "luckyColor": "#C9A84C"
       },
       "Gemini": {
         "date": "2026-02-27",
@@ -5276,7 +5276,7 @@
           72,
           95
         ],
-        "luckyColor": "Mint"
+        "luckyColor": "#40E0D0"
       },
       "Cancer": {
         "date": "2026-02-27",
@@ -5293,7 +5293,7 @@
           81,
           96
         ],
-        "luckyColor": "Silver"
+        "luckyColor": "#B8C4D8"
       },
       "Leo": {
         "date": "2026-02-27",
@@ -5310,7 +5310,7 @@
           63,
           70
         ],
-        "luckyColor": "Amber"
+        "luckyColor": "#FFBF00"
       },
       "Virgo": {
         "date": "2026-02-27",
@@ -5327,7 +5327,7 @@
           95,
           96
         ],
-        "luckyColor": "Slate Gray"
+        "luckyColor": "#546E7A"
       },
       "Libra": {
         "date": "2026-02-27",
@@ -5344,7 +5344,7 @@
           58,
           97
         ],
-        "luckyColor": "Lilac"
+        "luckyColor": "#E6E6FA"
       },
       "Scorpio": {
         "date": "2026-02-27",
@@ -5361,7 +5361,7 @@
           68,
           79
         ],
-        "luckyColor": "Obsidian"
+        "luckyColor": "#546E7A"
       },
       "Sagittarius": {
         "date": "2026-02-27",
@@ -5378,7 +5378,7 @@
           52,
           75
         ],
-        "luckyColor": "Indigo"
+        "luckyColor": "#4B0082"
       },
       "Capricorn": {
         "date": "2026-02-27",
@@ -5395,7 +5395,7 @@
           79,
           91
         ],
-        "luckyColor": "Ebony"
+        "luckyColor": "#546E7A"
       },
       "Aquarius": {
         "date": "2026-02-27",
@@ -5412,7 +5412,7 @@
           41,
           70
         ],
-        "luckyColor": "Electric Blue"
+        "luckyColor": "#00BCD4"
       },
       "Pisces": {
         "date": "2026-02-27",
@@ -5429,7 +5429,7 @@
           78,
           82
         ],
-        "luckyColor": "Aqua"
+        "luckyColor": "#00BCD4"
       }
     }
   },
@@ -5451,7 +5451,7 @@
           73,
           79
         ],
-        "luckyColor": "Copper"
+        "luckyColor": "#FF9800"
       },
       "Taurus": {
         "date": "2026-02-28",
@@ -5468,7 +5468,7 @@
           76,
           92
         ],
-        "luckyColor": "Earth Brown"
+        "luckyColor": "#546E7A"
       },
       "Gemini": {
         "date": "2026-02-28",
@@ -5485,7 +5485,7 @@
           75,
           86
         ],
-        "luckyColor": "Sunshine Yellow"
+        "luckyColor": "#FFBF00"
       },
       "Cancer": {
         "date": "2026-02-28",
@@ -5502,7 +5502,7 @@
           88,
           98
         ],
-        "luckyColor": "Pearl White"
+        "luckyColor": "#B8C4D8"
       },
       "Leo": {
         "date": "2026-02-28",
@@ -5519,7 +5519,7 @@
           85,
           88
         ],
-        "luckyColor": "Sunflower Yellow"
+        "luckyColor": "#FFBF00"
       },
       "Virgo": {
         "date": "2026-02-28",
@@ -5536,7 +5536,7 @@
           84,
           91
         ],
-        "luckyColor": "Ivory"
+        "luckyColor": "#B8C4D8"
       },
       "Libra": {
         "date": "2026-02-28",
@@ -5553,7 +5553,7 @@
           69,
           96
         ],
-        "luckyColor": "Rose"
+        "luckyColor": "#F48FB1"
       },
       "Scorpio": {
         "date": "2026-02-28",
@@ -5570,7 +5570,7 @@
           73,
           98
         ],
-        "luckyColor": "Maroon"
+        "luckyColor": "#800000"
       },
       "Sagittarius": {
         "date": "2026-02-28",
@@ -5587,7 +5587,7 @@
           27,
           40
         ],
-        "luckyColor": "Magenta"
+        "luckyColor": "#E040FB"
       },
       "Capricorn": {
         "date": "2026-02-28",
@@ -5604,7 +5604,7 @@
           85,
           87
         ],
-        "luckyColor": "Charcoal"
+        "luckyColor": "#546E7A"
       },
       "Aquarius": {
         "date": "2026-02-28",
@@ -5621,7 +5621,7 @@
           35,
           45
         ],
-        "luckyColor": "Violet"
+        "luckyColor": "#9C27B0"
       },
       "Pisces": {
         "date": "2026-02-28",
@@ -5638,7 +5638,7 @@
           86,
           99
         ],
-        "luckyColor": "Soft Violet"
+        "luckyColor": "#9C27B0"
       }
     }
   }
