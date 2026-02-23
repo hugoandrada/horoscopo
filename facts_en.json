@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "type": "fact",
+    "language": "en",
+    "version": "1.0",
+    "year": null
+  },
+  "content": [
+    {
+      "id": "fact_001",
+      "type": "fact",
+      "category": "astrology",
+      "title": "Mercury Retrograde",
+      "body": "Mercury appears to move backward in the sky 3 to 4 times per year, each lasting about 3 weeks.",
+      "day": null,
+      "month": null,
+      "year": null,
+      "tag": "planets",
+      "extra": "Duration: ~3 weeks",
+      "language": "en"
+    },
+    {
+      "id": "fact_002",
+      "type": "fact",
+      "category": "astrology",
+      "title": "The Moon and Emotions",
+      "body": "Many astrologers believe the Moon governs our emotional world, intuition, and subconscious mind.",
+      "day": null,
+      "month": null,
+      "year": null,
+      "tag": "moon",
+      "extra": "Ruler of: Cancer",
+      "language": "en"
+    },
+    {
+      "id": "fact_003",
+      "type": "fact",
+      "category": "astrology",
+      "title": "Rising Sign",
+      "body": "Your rising sign, or ascendant, represents how others perceive you at first glance.",
+      "day": null,
+      "month": null,
+      "year": null,
+      "tag": "birth chart",
+      "extra": "Changes every 2 hours",
+      "language": "en"
+    },
+    {
+      "id": "fact_004",
+      "type": "fact",
+      "category": "astrology",
+      "title": "The Four Elements",
+      "body": "The 12 zodiac signs are divided into four elements: Fire, Earth, Air, and Water, each with three signs.",
+      "day": null,
+      "month": null,
+      "year": null,
+      "tag": "elements",
+      "extra": "3 signs per element",
+      "language": "en"
+    },
+    {
+      "id": "fact_005",
+      "type": "fact",
+      "category": "astrology",
+      "title": "Venus and Love",
+      "body": "Venus rules love, beauty, and relationships. Its position in your chart reveals your romantic style.",
+      "day": null,
+      "month": null,
+      "year": null,
+      "tag": "planets",
+      "extra": "Ruler of: Taurus & Libra",
+      "language": "en"
+    },
+    {
+      "id": "fact_006",
+      "type": "fact",
+      "category": "astrology",
+      "title": "Full Moon Power",
+      "body": "Full Moons are considered the most powerful time for releasing what no longer serves you.",
+      "day": null,
+      "month": null,
+      "year": null,
+      "tag": "moon",
+      "extra": "Occurs every 29.5 days",
+      "language": "en"
+    },
+    {
+      "id": "fact_007",
+      "type": "fact",
+      "category": "astrology",
+      "title": "Saturn Return",
+      "body": "Saturn returns to its birth position roughly every 29 years, marking major life turning points.",
+      "day": null,
+      "month": null,
+      "year": null,
+      "tag": "planets",
+      "extra": "Ages: 29, 58, 87",
+      "language": "en"
+    },
+    {
+      "id": "fact_008",
+      "type": "fact",
+      "category": "astrology",
+      "title": "North Node",
+      "body": "Your North Node points to your soul's purpose and the qualities you are meant to develop in this lifetime.",
+      "day": null,
+      "month": null,
+      "year": null,
+      "tag": "birth chart",
+      "extra": "Also called: True Node",
+      "language": "en"
+    },
+    {
+      "id": "fact_009",
+      "type": "fact",
+      "category": "astrology",
+      "title": "Scorpio Depth",
+      "body": "Scorpio is the only sign ruled by two planets: Mars for drive and Pluto for transformation.",
+      "day": null,
+      "month": null,
+      "year": null,
+      "tag": "signs",
+      "extra": "Rulers: Mars & Pluto",
+      "language": "en"
+    },
+    {
+      "id": "fact_010",
+      "type": "fact",
+      "category": "astrology",
+      "title": "New Moon Intentions",
+      "body": "The New Moon is the ideal time to set intentions and plant seeds for what you want to manifest.",
+      "day": null,
+      "month": null,
+      "year": null,
+      "tag": "moon",
+      "extra": "Best time: first 48 hours",
+      "language": "en"
+    }
+  ]
+}
