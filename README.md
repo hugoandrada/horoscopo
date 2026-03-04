@@ -13,6 +13,7 @@
 - [ ] **App de Numerologia**
   - Calcula tu Numero x nombre y fecha de nacimiento
   - Significado de los numeros
+  - Numero del dia
 
 - [ ] **App de Luna**
   - La luna de Hoy
