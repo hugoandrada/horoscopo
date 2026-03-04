@@ -1,4 +1,4 @@
-# Proyectos pendientes
+# Proyectos
 
 - [ ] **App de Tarot**
   - Carta del Dia
