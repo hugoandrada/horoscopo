@@ -1,21 +1,23 @@
 # Proyectos pendientes
 
-- [ ] **API REST con autenticación**
-  - Implementar endpoints CRUD con JWT
-  - Documentar con Swagger
+- [ ] **App de Tarot**
+  - Carta del Dia
+  - Todas las Cartas
+  - Todas las Tirdas
 
-- [ ] **Dashboard de métricas**
-  - Visualización de datos en tiempo real
-  - Filtros por fecha y categoría
+- [ ] **App de Horoscopo**
+  - Horoscopo del Dia
+  - Todos los signos con su horoscopo del dia
+  - Todos los signos su informacion
 
-- [ ] **Sistema de notificaciones**
-  - Soporte para email y push notifications
-  - Cola de mensajes con reintentos
+- [ ] **App de Numerologia**
+  - Calcula tu Numero x nombre y fecha de nacimiento
+  - Significado de los numeros
 
-- [ ] **CLI de automatización**
-  - Comandos para despliegue y tareas repetitivas
-  - Configuración mediante archivo YAML
+- [ ] **App de Luna**
+  - La luna de Hoy
+  - La luna Natal para ti
 
-- [ ] **Módulo de exportación de reportes**
-  - Generación en PDF y CSV
-  - Programación de envíos automáticos
+- [ ] **Numeros de Angeles**
+  - Significado de los numeros
+  - ...
