@@ -29,3 +29,11 @@
   - Numero del Dia
   - Calcula tu numero x nombre y fecha de nacimiento
   - Horoscopo del Dia
+
+- [ ] **Astro Master**
+  - Tarot tiradas
+  - Carta del Dia
+  - Numero del Dia
+  - Calcula tu numero x nombre y fecha de nacimiento
+  - Horoscopo del Dia
+  - La luna Natal para ti
